@@ -2,10 +2,4 @@
 title: "My First Post"
 date: 2022-11-20T09:03:20-08:00
 ---
-## Introduction
-
-This is **bold** text, and this is *emphasized* text.
-
-Visit the [Hugo](https://gohugo.io) website!
-
-test
+Scrapboxもあるけどまとまった文章をちゃんと書きたいときに使う
